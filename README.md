@@ -1,4 +1,4 @@
-# AirBnB
+# AirBnB Clone
 
 ## Add a Spot
 
