@@ -1,5 +1,7 @@
 # AirBnB Clone
 
+## API Documentation
+
 ## Add a Spot
 
 Adds a new spot
