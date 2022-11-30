@@ -1,5 +1,9 @@
 # AirBnB Clone
 
+## Database Schema Design
+
+Insert here
+
 ## API Documentation
 
 ## Add a Spot
